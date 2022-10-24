@@ -1,0 +1,31 @@
+body {
+  background-color: #d5e1ef;
+  font-family: "Nunito", sans-serif;
+}
+
+p {
+  color: #aeb2be;
+}
+
+.qrcode {
+  border-radius: 20px;
+  max-width: 300px;
+}
+
+.container {
+  background-color: #ffffff;
+  color: #2a3048;
+  text-align: center;
+  max-width: 300px;
+  margin: 30px auto;
+  padding: 10px 10px;
+  border-radius: 20px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
